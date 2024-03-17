@@ -41,7 +41,7 @@ Repo: https://github.com/melsem08/BlazorMoviesApp
 
 ### Reactivities  
 Social application that allows you to create events or participate in other users announced events.  
-🛠️ Technologies used: .NET, C#, React, Typescript, Entity Framework, MobX, SemanticUI, SQLite, Postman.  
+🛠️ Technologies used: .NET, C#, React, Typescript, Entity Framework, MobX, Axios, SemanticUI, SQLite, Postman.  
 Repo: https://github.com/melsem08/Reactivities
 
 ---
